@@ -1,0 +1,16 @@
+{
+  "ADAM_MQTT": "true",
+  "ACTIVE_THRESHOLD_BY_SECONDS": 4, 
+  "MQTT_BROKER": "192.168.1.20",
+  "ADAM_PORT": 502,
+  "MQTT_PORT": 1883,
+  "DEVICE_IP_MAP": {
+    "74FE48905B08": "192.168.1.101",
+    "74FE489052BF": "192.168.1.99"
+
+  } , 
+  "MQTT_TOPICS": [
+    "Advantech/74FE48905B08/data",
+    "Advantech/74FE489052BF/data"
+  ]
+}

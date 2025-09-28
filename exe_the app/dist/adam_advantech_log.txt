@@ -1,0 +1,17 @@
+2025-08-24 12:03:42,160 - Configuration file C:\Users\maor5\Desktop\spinframe\ADAM_TRIGER\exe_the app\dist\config.json does not exist!
+2025-08-24 12:03:42,161 - Initial config load failed, exiting.
+2025-08-24 12:04:24,088 - Configuration reloaded
+2025-08-24 12:04:24,088 - === ADAM Advantech Monitor Started ===
+2025-08-24 12:04:24,088 - Starting ADAM MQTT monitor
+2025-08-24 12:04:24,088 - Using MQTT Callback API VERSION2
+2025-08-24 12:04:24,088 - Attempting to connect to MQTT broker at 192.168.1.20:1883
+2025-08-24 12:04:29,098 - MQTT connection error (OSError): timed out
+2025-08-24 12:04:39,095 - Configuration reloaded
+2025-08-24 12:04:39,095 - Config changed - MQTT_BROKER: 192.168.1.20 -> 192.168.1.22
+2025-08-24 12:04:39,095 - Critical MQTT setting changed: MQTT_BROKER
+2025-08-24 12:04:39,095 - MQTT connection settings changed - reconnecting
+2025-08-24 12:04:39,096 - Stopping MQTT monitor due to configuration change
+2025-08-24 12:04:41,119 - Starting ADAM MQTT monitor
+2025-08-24 12:04:41,120 - Using MQTT Callback API VERSION2
+2025-08-24 12:04:41,122 - Attempting to connect to MQTT broker at 192.168.1.22:1883
+2025-08-24 12:04:46,130 - MQTT connection error (OSError): timed out

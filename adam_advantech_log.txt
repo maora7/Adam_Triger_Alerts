@@ -1,0 +1,181 @@
+2025-08-20 17:04:07,891 - Configuration reloaded
+2025-08-20 17:04:07,892 - MQTT broker connection is down
+2025-08-20 17:04:07,892 - Attempting to connect to MQTT broker at 192.168.1.22:1883
+2025-08-20 17:04:09,944 - MQTT connection refused: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-08-20 17:04:17,894 - MQTT broker connection is down
+2025-08-20 17:04:19,945 - Attempting to connect to MQTT broker at 192.168.1.22:1883
+2025-08-20 17:04:22,011 - MQTT connection refused: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-08-20 17:04:27,895 - MQTT broker connection is down
+2025-08-20 17:04:32,013 - Attempting to connect to MQTT broker at 192.168.1.22:1883
+2025-08-20 17:04:32,056 - Connected to MQTT broker with code 0
+2025-08-20 17:04:32,056 - Subscribed to Advantech/74FE48905B08/data
+2025-08-20 17:04:32,057 - Subscribed to Advantech/74FE489052BF/data
+2025-08-20 17:04:45,849 - MQTT 192.168.1.99 - DI3 active for 5 seconds
+2025-08-20 17:04:50,587 - MQTT 192.168.1.101 - DI4 active for 5 seconds
+2025-08-20 17:05:07,961 - MQTT broker unexpectedly disconnected
+2025-08-20 17:05:17,900 - MQTT broker connection is down
+2025-08-20 17:05:27,902 - MQTT broker connection is down
+2025-08-20 17:05:37,904 - MQTT broker connection is down
+2025-08-20 17:05:47,905 - MQTT broker connection is down
+2025-08-20 17:05:57,906 - MQTT broker connection is down
+2025-08-20 17:06:07,909 - MQTT broker connection is down
+2025-08-20 17:06:17,912 - MQTT broker connection is down
+2025-08-20 17:06:21,274 - Connected to MQTT broker with code 0
+2025-08-20 17:06:21,274 - Subscribed to Advantech/74FE48905B08/data
+2025-08-20 17:06:21,275 - Subscribed to Advantech/74FE489052BF/data
+2025-08-20 17:07:01,529 - MQTT 192.168.1.101 - DI4 active for 5 seconds
+2025-08-20 17:07:21,081 - Configuration reloaded
+2025-08-20 17:07:42,471 - MQTT 192.168.1.101 - DI3 active for 5 seconds
+2025-08-20 17:08:00,294 - Configuration reloaded
+2025-08-20 17:08:00,295 - MQTT broker connection is down
+2025-08-20 17:08:00,295 - Attempting to connect to MQTT broker at 192.168.1.22:1883
+2025-08-20 17:08:00,301 - Connected to MQTT broker with code 0
+2025-08-20 17:08:00,301 - Subscribed to Advantech/74FE48905B08/data
+2025-08-20 17:08:07,947 - Configuration reloaded
+2025-08-20 17:08:28,418 - MQTT 192.168.1.101 - DI3 active for 5 seconds
+2025-08-20 17:46:37,210 - Configuration reloaded
+2025-08-20 17:46:37,212 - MQTT broker connection is down
+2025-08-20 17:46:37,212 - Attempting to connect to MQTT broker at 192.168.1.22:1883
+2025-08-20 17:46:37,243 - Connected to MQTT broker with code 0
+2025-08-20 17:46:37,244 - Subscribed to Advantech/74FE48905B08/data
+2025-08-20 17:47:05,432 - MQTT 192.168.1.101 - DI1 active for 5 seconds
+2025-08-20 17:47:22,250 - Configuration reloaded
+2025-08-20 17:47:47,103 - MQTT 192.168.1.101 - DI0 active for 3 seconds
+2025-08-20 17:48:07,317 - MQTT 192.168.1.101 - DI5 active for 3 seconds
+2025-08-20 17:48:12,260 - Configuration reloaded
+2025-08-20 17:48:12,261 - Subscribed to Advantech/74FE489052BF/data
+2025-08-20 17:48:18,923 - MQTT 192.168.1.99 - DI3 active for 5 seconds
+2025-08-20 17:48:58,262 - MQTT 192.168.1.101 - DI1 active for 5 seconds
+2025-08-20 17:48:59,868 - MQTT 192.168.1.99 - DI3 active for 5 seconds
+2025-08-20 17:49:05,518 - MQTT broker unexpectedly disconnected
+2025-08-20 17:49:07,271 - MQTT broker connection is down
+2025-08-20 17:49:10,566 - Connected to MQTT broker with code 0
+2025-08-20 17:49:10,567 - Subscribed to Advantech/74FE48905B08/data
+2025-08-20 17:49:10,567 - Subscribed to Advantech/74FE489052BF/data
+2025-08-20 17:49:27,292 - Configuration reloaded
+2025-08-20 17:49:40,684 - MQTT broker unexpectedly disconnected
+2025-08-20 17:49:47,296 - MQTT broker connection is down
+2025-08-20 17:49:57,300 - MQTT broker connection is down
+2025-08-20 17:50:07,302 - MQTT broker connection is down
+2025-08-20 17:50:17,303 - MQTT broker connection is down
+2025-08-20 17:56:14,319 - Configuration reloaded
+2025-08-20 17:56:14,320 - Starting ADAM Modbus monitor
+2025-08-20 17:56:14,320 - Added Modbus device: 192.168.1.101 (74FE48905B08)
+2025-08-20 17:56:14,321 - Added Modbus device: 192.168.1.99 (74FE489052BF)
+2025-08-20 17:56:19,389 - Modbus 192.168.1.101 - DI1 active for 5 seconds
+2025-08-20 17:56:19,390 - Modbus 192.168.1.101 - DI2 active for 5 seconds
+2025-08-20 17:56:19,395 - Modbus 192.168.1.99 - DI5 active for 5 seconds
+2025-08-20 17:56:38,507 - Configuration reloaded
+2025-08-20 17:56:38,507 - Config changed - ADAN_MQTT: false -> true
+2025-08-20 17:56:38,508 - ADAN_MQTT mode changed - switching modes
+2025-08-20 17:56:38,508 - Stopping Modbus monitor due to configuration change
+2025-08-20 17:56:40,509 - Starting ADAM MQTT monitor
+2025-08-20 17:56:40,513 - MQTT broker connection is down
+2025-08-20 17:56:40,513 - Attempting to connect to MQTT broker at 192.168.1.22:1883
+2025-08-20 17:56:42,552 - MQTT connection refused: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-08-20 17:56:50,515 - MQTT broker connection is down
+2025-08-20 17:56:52,554 - Attempting to connect to MQTT broker at 192.168.1.22:1883
+2025-08-20 17:56:52,583 - Connected to MQTT broker with code 0
+2025-08-20 17:56:52,584 - Subscribed to Advantech/74FE48905B08/data
+2025-08-20 17:56:52,584 - Subscribed to Advantech/74FE489052BF/data
+2025-08-20 17:56:59,261 - MQTT broker unexpectedly disconnected
+2025-08-20 17:57:00,518 - MQTT broker connection is down
+2025-08-20 17:57:10,520 - MQTT broker connection is down
+2025-08-20 17:57:20,393 - Connected to MQTT broker with code 0
+2025-08-20 17:57:20,393 - Subscribed to Advantech/74FE48905B08/data
+2025-08-20 17:57:20,393 - Subscribed to Advantech/74FE489052BF/data
+2025-08-20 17:57:23,775 - MQTT 192.168.1.99 - DI5 active for 5 seconds
+2025-08-20 17:57:23,968 - MQTT 192.168.1.101 - DI1 active for 5 seconds
+2025-08-20 17:57:23,969 - MQTT 192.168.1.101 - DI2 active for 5 seconds
+2025-08-20 17:57:40,525 - Configuration reloaded
+2025-08-20 17:57:40,527 - Config changed - ADAN_MQTT: true -> false
+2025-08-20 17:57:40,527 - ADAN_MQTT mode changed - switching modes
+2025-08-20 17:57:40,527 - Stopping MQTT monitor due to configuration change
+2025-08-20 17:57:40,527 - MQTT broker disconnected normally
+2025-08-20 17:57:40,527 - MQTT broker disconnected normally
+2025-08-20 17:57:42,528 - Starting ADAM Modbus monitor
+2025-08-20 17:57:42,528 - Added Modbus device: 192.168.1.101 (74FE48905B08)
+2025-08-20 17:57:42,530 - Added Modbus device: 192.168.1.99 (74FE489052BF)
+2025-08-20 17:57:59,686 - Configuration reloaded
+2025-08-20 17:57:59,687 - Config changed - DEVICE_IP_MAP: {'74FE48905B08': '192.168.1.101', '74FE489052BF': '192.168.1.99'} -> {'74FE48905B08': '192.168.1.101'}
+2025-08-20 17:57:59,687 - Config changed - MQTT_TOPICS: ['Advantech/74FE48905B08/data', 'Advantech/74FE489052BF/data'] -> ['Advantech/74FE48905B08/data']
+2025-08-20 17:57:59,687 - Critical Modbus setting changed: DEVICE_IP_MAP
+2025-08-20 17:57:59,687 - Modbus connection settings changed - restarting
+2025-08-20 17:57:59,688 - Stopping Modbus monitor due to configuration change
+2025-08-20 17:58:01,689 - Starting ADAM Modbus monitor
+2025-08-20 17:58:01,690 - Added Modbus device: 192.168.1.101 (74FE48905B08)
+2025-08-20 17:58:21,779 - Modbus 192.168.1.101 - DI4 active for 5 seconds
+2025-08-20 17:58:31,037 - Configuration reloaded
+2025-08-20 17:58:31,038 - Config changed - DEVICE_IP_MAP: {'74FE48905B08': '192.168.1.101'} -> {'74FE48905B08': '192.168.1.101', '74FE489052BF': '192.168.1.99'}
+2025-08-20 17:58:31,038 - Config changed - MQTT_TOPICS: ['Advantech/74FE48905B08/data'] -> ['Advantech/74FE48905B08/data', 'Advantech/74FE489052BF/data']
+2025-08-20 17:58:31,039 - Critical Modbus setting changed: DEVICE_IP_MAP
+2025-08-20 17:58:31,039 - Modbus connection settings changed - restarting
+2025-08-20 17:58:31,039 - Stopping Modbus monitor due to configuration change
+2025-08-20 17:58:33,042 - Starting ADAM Modbus monitor
+2025-08-20 17:58:33,042 - Added Modbus device: 192.168.1.101 (74FE48905B08)
+2025-08-20 17:58:33,043 - Added Modbus device: 192.168.1.99 (74FE489052BF)
+2025-08-20 17:58:53,218 - Modbus 192.168.1.99 - DI3 active for 5 seconds
+2025-08-20 17:59:04,705 - Modbus 192.168.1.101 - DI1 active for 5 seconds
+2025-08-20 17:59:38,974 - Configuration reloaded
+2025-08-20 17:59:38,975 - Config changed - ADAN_MQTT: false -> true
+2025-08-20 17:59:38,975 - ADAN_MQTT mode changed - switching modes
+2025-08-20 17:59:38,975 - Stopping Modbus monitor due to configuration change
+2025-08-20 17:59:40,976 - Starting ADAM MQTT monitor
+2025-08-20 17:59:40,977 - MQTT broker connection is down
+2025-08-20 17:59:40,978 - Attempting to connect to MQTT broker at 192.168.1.22:1883
+2025-08-20 17:59:40,980 - Connected to MQTT broker with code 0
+2025-08-20 17:59:40,981 - Subscribed to Advantech/74FE48905B08/data
+2025-08-20 17:59:40,982 - Subscribed to Advantech/74FE489052BF/data
+2025-08-20 17:59:49,719 - MQTT 192.168.1.99 - DI3 active for 5 seconds
+2025-08-20 17:59:55,998 - Configuration reloaded
+2025-08-20 17:59:55,999 - Config changed - ACTIVE_THRESHOLD: 5 -> 3
+2025-08-20 18:00:11,035 - Configuration reloaded
+2025-08-20 18:00:11,036 - Config changed - MQTT_BROKER: 192.168.1.22 -> 192.168.1.40
+2025-08-20 18:00:11,036 - Critical MQTT setting changed: MQTT_BROKER
+2025-08-20 18:00:11,037 - MQTT connection settings changed - reconnecting
+2025-08-20 18:00:11,037 - Stopping MQTT monitor due to configuration change
+2025-08-20 18:00:11,038 - MQTT broker disconnected normally
+2025-08-20 18:00:11,038 - MQTT broker disconnected normally
+2025-08-20 18:00:13,040 - Starting ADAM MQTT monitor
+2025-08-20 18:00:13,041 - Attempting to connect to MQTT broker at 192.168.1.40:1883
+2025-08-20 18:00:15,113 - MQTT connection refused: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-08-20 18:00:23,042 - MQTT broker connection is down
+2025-08-20 18:00:23,047 - Configuration reloaded
+2025-08-20 18:00:23,048 - Config changed - MQTT_BROKER: 192.168.1.40 -> 192.168.1.22
+2025-08-20 18:00:23,048 - Critical MQTT setting changed: MQTT_BROKER
+2025-08-20 18:00:23,049 - MQTT connection settings changed - reconnecting
+2025-08-20 18:00:23,050 - Stopping MQTT monitor due to configuration change
+2025-08-20 18:00:27,116 - Starting ADAM MQTT monitor
+2025-08-20 18:00:27,117 - Attempting to connect to MQTT broker at 192.168.1.22:1883
+2025-08-20 18:00:27,145 - Connected to MQTT broker with code 0
+2025-08-20 18:00:27,146 - Subscribed to Advantech/74FE48905B08/data
+2025-08-20 18:00:27,147 - Subscribed to Advantech/74FE489052BF/data
+2025-08-20 18:00:32,134 - JSON decode error in config file: Expecting ',' delimiter: line 5 column 3 (char 85)
+2025-08-20 18:00:37,139 - JSON decode error in config file: Expecting ',' delimiter: line 5 column 3 (char 85)
+2025-08-20 18:00:42,140 - JSON decode error in config file: Expecting ',' delimiter: line 5 column 3 (char 85)
+2025-08-20 18:00:47,147 - Configuration reloaded
+2025-08-20 18:01:07,269 - MQTT 192.168.1.101 - DI1 active for 3 seconds
+2025-08-20 18:06:47,196 - Error loading configuration: [WinError 2] The system cannot find the file specified: 'c:\\Users\\maor5\\Desktop\\spinframe\\ADAM_TRIGER\\cod+config\\config.json'
+2025-08-20 18:06:52,198 - Error loading configuration: [WinError 2] The system cannot find the file specified: 'c:\\Users\\maor5\\Desktop\\spinframe\\ADAM_TRIGER\\cod+config\\config.json'
+2025-08-20 18:06:57,199 - Error loading configuration: [WinError 2] The system cannot find the file specified: 'c:\\Users\\maor5\\Desktop\\spinframe\\ADAM_TRIGER\\cod+config\\config.json'
+2025-08-21 09:36:16,294 - Configuration reloaded
+2025-08-21 09:36:16,295 - Starting ADAM MQTT monitor
+2025-08-21 09:36:16,296 - MQTT broker connection is down
+2025-08-21 09:36:16,296 - Attempting to connect to MQTT broker at 192.168.1.22:1883
+2025-08-21 09:36:16,313 - Connected to MQTT broker with code 0
+2025-08-21 09:36:16,315 - Subscribed to Advantech/74FE48905B08/data
+2025-08-21 09:36:16,316 - Subscribed to Advantech/74FE489052BF/data
+2025-08-21 09:36:20,342 - MQTT 192.168.1.99 - DI3 active for 3 seconds
+2025-08-21 09:36:26,220 - MQTT 192.168.1.101 - DI1 active for 3 seconds
+2025-08-21 09:37:26,203 - MQTT 192.168.1.99 - DI2 active for 3 seconds
+2025-08-21 09:37:41,341 - Configuration reloaded
+2025-08-21 09:37:41,341 - Config changed - ACTIVE_THRESHOLD_BY_SECONDS: 3 -> 5
+2025-08-21 09:38:07,161 - MQTT 192.168.1.99 - DI5 active for 5 seconds
+2025-08-24 09:39:41,802 - Configuration reloaded
+2025-08-24 09:39:41,803 - Starting ADAM MQTT monitor
+2025-08-24 09:39:41,803 - Attempting to connect to MQTT broker at 192.168.1.22:1883
+2025-08-24 09:39:46,813 - MQTT connection error (OSError): timed out
+2025-08-24 09:40:04,359 - Configuration reloaded
+2025-08-24 09:40:04,360 - Starting ADAM MQTT monitor
+2025-08-24 09:40:04,360 - Attempting to connect to MQTT broker at 192.168.1.14:1883
+2025-08-24 09:40:09,373 - MQTT connection error (OSError): timed out
